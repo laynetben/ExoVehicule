@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ExoVehicule
 {
-    class Program
+  public class Camion :Vehicule
     {
-        static void Main(string[] args)
-        {
-       
+
     }
 }
